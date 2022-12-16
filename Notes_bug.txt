@@ -1,0 +1,23 @@
+- to quoc, cafef, genk chạy --headless lỗi
+- cafebizz lỗi button tìm kiếm click không được
+- lỗi input_text_check_find page afamily
+- lỗi click_search_button page autopro
+- lỗi move_mouse gamek
+
+- kenhvct9 ifamem video
+-tapchinhuoc.vn ko truy cập vào trang dc
+- check video tapchigiaothong
+- openlink check video afamily
+
+* Lỗi check lại
+- lỗi check_verify_post_find page genk - tìm kiếm ko ra kết quả
+- lỗi check_verify_post_find page sport5 - đã kiểm tra
+- lỗi verify_post_find page doanhnghieptiepthi
+- lỗi click_play_video_mobile page ictvietnam -đã kiểm tra
+- lỗi click_tag_post page phapluat.suckhoedoisong - đã fix
+- lỗi check_verify_post_find page sotttt - đã kiểm tra
+- lỗi check_time_play_video_mobile page check page giadinh
+- lỗi click_tag_post page check page congdankhuyenhoc
+- lỗi check_verify_post_find page cuoituan.tuoitre
+
+- podcast_nld check verify post tìm kiếm
